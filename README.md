@@ -1,16 +1,18 @@
-## Hi there 👋
+## Recursos Oficiales de Arbitrum (Ecosistema 2026)
 
-<!--
-**ArbitrumAcademyEsp/arbitrumacademyesp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Documentación y Tutoriales
+- [Arbitrum Docs](https://github.com/OffchainLabs/arbitrum-docs) → Fuente principal de la documentación para developers.
+- [Arbitrum Tutorials](https://github.com/OffchainLabs/arbitrum-tutorials) → Ejemplos prácticos para deploy, bridging y Orbit.
 
-Here are some ideas to get you started:
+### SDKs y Herramientas
+- [Arbitrum SDK](https://github.com/OffchainLabs/arbitrum-sdk) → Librería TS para interacciones cliente-side.
+- [Arbitrum Chain SDK](https://github.com/OffchainLabs/arbitrum-chain-sdk) → Para crear y lanzar chains Orbit.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stylus (Rust/C/C++ Contracts)
+- [Stylus by Example](https://github.com/OffchainLabs/stylus-by-example) → Ejemplos simples de contratos.
+- [Awesome Stylus](https://github.com/OffchainLabs/awesome-stylus) → Lista curada de recursos y libs.
+
+### Bridging y Más
+- [Token Bridge Contracts](https://github.com/OffchainLabs/token-bridge-contracts) → Contratos oficiales para puentes de tokens.
+
+Estos repos son 100% oficiales de Offchain Labs / Arbitrum y se actualizan frecuentemente. Úsalos como base para tus labs y proyectos capstone.
